@@ -1,4 +1,4 @@
-public class Sucre extends DecorateurCafe{
+public class Sucre extends DecorateurCafe{// class décorateur cafer
     public Sucre(Cafe cafe) {
         super(cafe);
     }
